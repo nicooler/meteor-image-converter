@@ -1,0 +1,25 @@
+{
+  "name": "meteor-image-converter",
+  "version": "1.0.0",
+  "description": "This package created the icons and the splash images needed for shipping a cordova app to iOS or Android - just from using one file for each.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicooler/meteor-image-converter.git"
+  },
+  "keywords": [
+    "icon",
+    "splash",
+    "meteor",
+    "images"
+  ],
+  "author": "nico@hikey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicooler/meteor-image-converter/issues"
+  },
+  "homepage": "https://github.com/nicooler/meteor-image-converter#readme"
+}
